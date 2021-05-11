@@ -4,4 +4,4 @@
 
 ### 步骤
 1. npm i
-2. 让后浏览器双击打开/src/index.html
+2. 然后浏览器双击打开/src/index.html
